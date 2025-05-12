@@ -38,7 +38,7 @@ Para concluir o desafio, siga estes passos:
 5. Objetivos
 
 - [ ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendasem informações relevantes para a fabricante
+- [ ] Transformar dados de venda sem informações relevantes para a fabricante
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
 
