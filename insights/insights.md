@@ -30,3 +30,4 @@ Resumo por faixa de desconto:
 | 30–50%                | 0                  |
 | 50–100%               | 0                  |
 
+**Conclusão**: Existe uma relação clara — vendas tendem a ser mais frequentes com descontos moderados entre 5% e 30%, enquanto descontos muito baixos ou excessivamente altos não geraram vendas.
